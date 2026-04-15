@@ -137,16 +137,6 @@ NODE_ENV=development
 
 ---
 
-## 👥 Team — Code Warriors
-
-| Name               | Role              |
-|--------------------|-------------------|
-| Omkar Patil        | Team Leader       |
-| Aditya Hanbar      | Developer         |
-| Arya Patil         | Developer         |
-| Rajnandini Survase | Developer         |
-
----
 
 ## 📄 License
 
